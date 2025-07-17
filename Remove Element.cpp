@@ -1,3 +1,6 @@
+//Side note - If you are locally attemting this question just add a -1 at the ed of the array value inputs, on leetcode platform just the "removeElement" function is
+//needed as there u don't have to deal with inputs.
+
 #include <iostream>
 #include <vector>
 using namespace std;
